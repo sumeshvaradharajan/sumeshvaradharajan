@@ -10,7 +10,7 @@ analytical skills in a proficient way to help the organization to achieve busine
 - 🌱 A Machine Learning and Data Science enthusiast.
 
 - 📫 How to reach me: ...
-  1) 📧 Email: vsumesh0105@gmail.com
+  1) 📧 Email: sumesh.varadharajan2002@gmail.com
   2) 📘LinkedIn: www.linkedin.com/in/sumeshvaradharajan
 <!--
 **Sumesh0105/Sumesh0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
