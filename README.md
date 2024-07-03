@@ -11,7 +11,7 @@ analytical skills in a proficient way to help the organization to achieve busine
 
 - 📫 How to reach me: ...
   1) 📧 Email: sumesh.varadharajan2002@gmail.com
-  2) 📘LinkedIn: www.linkedin.com/in/sumeshvaradharajan
+  2) 📘LinkedIn: https://www.linkedin.com/in/sumesh-varadharajan-1ab972316/
 <!--
 **Sumesh0105/Sumesh0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
